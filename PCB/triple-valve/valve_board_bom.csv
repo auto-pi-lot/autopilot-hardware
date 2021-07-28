@@ -1,0 +1,5 @@
+﻿Name,Quantity,Price Ea. (USD),Manufacturer,Part No. (mfg),Part No. (distributor),Link,Datasheet
+Prototyping Board,1,$1.50 ,DFRobot,FIT0099,1738-1000-ND,https://www.digikey.com/product-detail/en/dfrobot/FIT0099/1738-1000-ND/6588422,
+Tactile Switch,3,0.11,TE Connectivity,1825910-7,450-1804-ND,https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/1825910-7/450-1804-ND/1731414,
+Solenoid Valve,3,63.35,The Lee Company,LHDA0531115H,,http://www.theleeco.com/electro-fluidic-systems/solenoid-valves/lhd/3-port-ported-style.cfm,
+Transistor (NPN),3,0.21,ON Semiconductor,BC547BTA,BC547BTACT-ND,https://www.digikey.com/product-detail/en/on-semiconductor/BC547BTA/BC547BTACT-ND/1532789,

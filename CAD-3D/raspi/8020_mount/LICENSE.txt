@@ -1,0 +1,9 @@
+The base design, RPi4_8020_mount_bumper.stl and RPi4_8020_mount_flat.stl were distributed from https://www.thingiverse.com/thing:3744587
+
+With the following license:
+
+Liscened to {Patrick true} {Lavelle true} 
+ License: cc-nc
+
+
+...flat_dual was a remix by sneakers-the-rat distributed from https://www.thingiverse.com/thing:4781970
